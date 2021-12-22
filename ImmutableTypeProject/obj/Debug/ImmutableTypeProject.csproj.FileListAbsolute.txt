@@ -1,0 +1,7 @@
+D:\Learning\Veeam\CodeExample\Solution1\exercises-for-learning-.NET\ImmutableTypeProject\bin\Debug\ImmutableTypeProject.exe
+D:\Learning\Veeam\CodeExample\Solution1\exercises-for-learning-.NET\ImmutableTypeProject\bin\Debug\ImmutableTypeProject.pdb
+D:\Learning\Veeam\CodeExample\Solution1\exercises-for-learning-.NET\ImmutableTypeProject\obj\Debug\ImmutableTypeProject.csproj.AssemblyReference.cache
+D:\Learning\Veeam\CodeExample\Solution1\exercises-for-learning-.NET\ImmutableTypeProject\obj\Debug\ImmutableTypeProject.csproj.SuggestedBindingRedirects.cache
+D:\Learning\Veeam\CodeExample\Solution1\exercises-for-learning-.NET\ImmutableTypeProject\obj\Debug\ImmutableTypeProject.csproj.CoreCompileInputs.cache
+D:\Learning\Veeam\CodeExample\Solution1\exercises-for-learning-.NET\ImmutableTypeProject\obj\Debug\ImmutableTypeProject.exe
+D:\Learning\Veeam\CodeExample\Solution1\exercises-for-learning-.NET\ImmutableTypeProject\obj\Debug\ImmutableTypeProject.pdb

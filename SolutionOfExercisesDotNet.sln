@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex1", "Ex1", "{97B5557E-60C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableTypeProject", "ImmutableTypeProject\ImmutableTypeProject.csproj", "{FB68637E-7852-43CD-9C64-F6606D933761}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceRedefinitionVirtualMethodInStructure", "InheritanceRedefinitionVirtualMethodInStructure\InheritanceRedefinitionVirtualMethodInStructure.csproj", "{8184C530-F062-4C70-B3BB-4FACC0F06306}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FB68637E-7852-43CD-9C64-F6606D933761} = {97B5557E-60CA-4CAC-BD23-A371C352A80A}
+		{8184C530-F062-4C70-B3BB-4FACC0F06306} = {97B5557E-60CA-4CAC-BD23-A371C352A80A}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FB68637E-7852-43CD-9C64-F6606D933761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB68637E-7852-43CD-9C64-F6606D933761}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB68637E-7852-43CD-9C64-F6606D933761}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB68637E-7852-43CD-9C64-F6606D933761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8184C530-F062-4C70-B3BB-4FACC0F06306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8184C530-F062-4C70-B3BB-4FACC0F06306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8184C530-F062-4C70-B3BB-4FACC0F06306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8184C530-F062-4C70-B3BB-4FACC0F06306}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
